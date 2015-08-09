@@ -1,4 +1,5 @@
 #
+# Exploratory Data Analysis
 # Course project 1
 #
 # Plot 1
